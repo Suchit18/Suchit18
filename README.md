@@ -3,7 +3,6 @@
 
 - Open to contribute to meaningful projects
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
