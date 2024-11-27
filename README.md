@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Suchit Tilak</h1>
 <h3 align="center">Electronics Engineer</h3>
 
-- I’m currently working on **NLP based Projects**
-
-- I’m looking to collaborate on **projects in the ML/DL/DS domain**
+- Open to contribute to meaningful projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
